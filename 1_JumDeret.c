@@ -1,7 +1,7 @@
 /*
 Nama 		: Gigih Haidar Falah
 NIM		    : 24060122140110
-Tanggal		:
+Tanggal		: 8 Maret 2023
 Deskripsi 	: Menghitung Jumlah Deret dari N
 */
 
